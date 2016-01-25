@@ -1,0 +1,150 @@
+# Webalizer V2.01-10 Incremental Data - 07/01/2013 02:41:09
+2013 7 1 2 41 9
+5 3 3 4 1 4 1484 1 1 0
+3 3 3 1 1
+5 3 1484 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 1408 0
+0 0 0 0
+3 1 76 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/Annick de Souzenelle et Suzanne Renardat.jpg
+1 1 3472592269634391328 0 0 0
+/robots.txt
+0 2 3330165931418799392 152 0 0
+/default.css
+0 1 2339749123492421691 1332 0 0
+/emissions.html
+0 1 8320241313730090784 0 1 0
+# End Of Table - urls
+# -sites- (monthly)
+157.55.32.26
+0 2 2 1408 0 0
+-
+178.154.207.250
+0 2 1 76 0 0
+-
+66.249.72.54
+0 1 0 0 1 1372644911
+/emissions.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+157.55.32.26
+0 2 2 1408 0 0
+-
+178.154.207.250
+0 2 1 76 0 0
+-
+66.249.72.54
+0 1 0 0 1 1372644911
+/emissions.html
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 5
+# End Of Table - referrers
+# -agents- 
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobil
+0 1
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bi
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
